@@ -72,7 +72,7 @@ pip install -r requirements.txt
 
 ### 2️⃣ Setup Data
 
-- Download the dataset from **Kaggle**
+- Download the dataset from **Kaggle** (https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
 - Place `creditcard.csv` inside the `data/` folder
 
 ### 3️⃣ Run Analysis & Training
