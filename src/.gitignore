@@ -1,0 +1,12 @@
+# Ignore Data
+data/
+*.csv
+
+# Ignore PyCharm settings
+.idea/
+__pycache__/
+*.pyc
+
+# Ignore Environment
+venv/
+env/
